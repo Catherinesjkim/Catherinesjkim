@@ -12,7 +12,9 @@
 
 - :telephone_receiver: How to reach me: ... [Twitter](https://twitter.com/catherinesjkim)
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
+[![Twitter: catherinesjkim](https://img.shields.io/twitter/follow/catherinesjkim?style=social)](https://twitter.com/catherinesjkim)
+[![Linkedin: catherinesjkim](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
+[![GitHub Catherinesjkim](https://img.shields.io/github/followers/Catherinesjkim?label=follow&style=social)](https://github.com/Catherinesjkim)
 
 <hr>
 <details>

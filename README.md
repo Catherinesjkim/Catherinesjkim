@@ -10,7 +10,7 @@
 
 - :information_desk_person: Ask me about ... Anything
 
-- :telephone_receiver: How to reach me: ... [Twitter](https://twitter.com/catherinesjkim)
+- :telephone_receiver: How to reach me: ... 
 
 [![Twitter: catherinesjkim](https://img.shields.io/twitter/follow/catherinesjkim?style=social)](https://twitter.com/catherinesjkim)
 [![Linkedin: catherinesjkim](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)

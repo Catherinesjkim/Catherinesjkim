@@ -24,7 +24,7 @@
 <details>
     <summary>Language Statistics...</summary>
     <p align = "center">
-        <img src="src="https://wakatime.com/share/@e8e7f2a2-f6f0-415d-9cae-72292f250efd/1ab2c676-de7f-434b-96be-f8a2464bb592.svg"/>
+        <href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg"/>
     </p>
 </details>
 <hr>

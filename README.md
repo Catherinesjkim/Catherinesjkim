@@ -10,15 +10,9 @@
 
 - :information_desk_person: Ask me about ... Anything
 
-- :telephone_receiver: How to reach me: ... [LinkedIn Profile](https://www.linkedin.com/in/catherinesjkim/)
+- :telephone_receiver: How to reach me: ... [Twitter](https://twitter.com/catherinesjkim)
 
-- :raising_hand: Pronouns: ... She/Her/Hers
-
-- :dolls: Fun Fact: ... I grew up in Bs.As. Argentina
-
-![Twitter Follow](https://img.shields.io/twitter/follow/catherinesjkim?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
-![GitHub followers](https://img.shields.io/github/followers/Catherinesjkim?label=Follow&style=social)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

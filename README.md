@@ -1,16 +1,16 @@
-<h2>Annyoung :wave:, I'm Catherine Kim! </h2>
+<h2> Annyoung :wave:, I'm Catherine Kim! </h2>
     
-- :computer: I'm currently working on ... CitySpire
+- :computer:   I'm currently working on ... CitySpire
 
-- :books: I'm currently learning ... SQL & REST APIs with Flask and Python
+- :books:   I'm currently learning ... SQL & REST APIs with Flask and Python
 
-- :raised_hands: I'm looking to collabroate on ... Python
+- :raised_hands:   I'm looking to collabroate on ... Python
 
-- :question: I'm looking for help with ... DMN & FEEL
+- :question:   I'm looking for help with ... DMN & FEEL
 
-- :information_desk_person: Ask me about ... Anything
+- :information_desk_person:   Ask me about ... Anything
 
-- :telephone_receiver: How to reach me: ... [Twitter](https://twitter.com/catherinesjkim)
+- :telephone_receiver:   How to reach me: ... [Twitter](https://twitter.com/catherinesjkim)
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
 

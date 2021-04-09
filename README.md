@@ -40,7 +40,8 @@ const cat = {
     technologies: {
         webApp: ["Python App"],
         frontEnd: {
-            js: ["React", "Context", "fast api"],
+            js: ["React", "Context"],
+            python: ["FastAPI"]
             css: ["material ui", "ant design", "bootstrap", "SaaS", "Less"]
         },
         backEnd: {

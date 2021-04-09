@@ -18,13 +18,13 @@
 <details>
     <summary>Github Statistics...</summary>
     <p align = "center">
-        <div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/3o72FkiKGMGauydfyg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg">via GIPHY</a></p>
+       <img src="https://github-readme-stats.vercel.app/api?username=catherinesjkim&show_icons=true" />
     </p>
 </details>
 <details>
     <summary>Language Statistics...</summary>
     <p align = "center">
-        <href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg"/>
+        <img src="https://wakatime.com/share/@e8e7f2a2-f6f0-415d-9cae-72292f250efd/2aa436a2-eee8-4fe1-94b4-dffa634583b2.svg" />
     </p>
 </details>
 <hr>

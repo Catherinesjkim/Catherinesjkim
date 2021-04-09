@@ -37,7 +37,7 @@
 ```javascript
 const cat = {
     pronouns: "She" | "Her" | "Hers",
-    code: ["Javascript", "Python", "Ruby", "FEEL"],
+    code: ["Javascript", "HTML", "CSS", "Python", "Ruby", "FEEL"],
     askMeAbout: ["web dev", "tech", "app dev", "startup", "baking"],
     technologies: {
         webApp: ["Python App"],
@@ -54,7 +54,10 @@ const cat = {
         databases: ["postgreSQL", "MySql", "sqlite"],
         misc: ["DMN", "selenium", "postman"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["serverless architecture", "progressive web applications", "single page applications", "microservices", "event-driven", "design system pattern"],
+    techCommunities: {
+                        member: "Py-Lambda"
+                       },
     currentProject: "I am building a web app and REST APIs with Flask and Python",
     funFact: "Let your code brew overnight and magic will happen the next day"
 };

@@ -1,3 +1,5 @@
+<h2>Annyoung :wave:, I'm Catherine Kim! </h2>
+    
 - :computer: I'm currently working on ... CitySpire
 
 - :books: I'm currently learning ... SQL & REST APIs with Flask and Python
@@ -14,13 +16,8 @@
 
 - :dolls: Fun Fact: ... I grew up in Bs.As. Argentina
 
-<h2>(An nyoung)🙏🏻, I'm Catherine Kim! <iframe src="https://giphy.com/embed/2LQebdUSuW74s" width="480" height="318" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-space-photoshop-2LQebdUSuW74s">via GIPHY</a></p></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Application Support Specialist at <a href="">?</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/catherinesjkim?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
 ![GitHub followers](https://img.shields.io/github/followers/Catherinesjkim?label=Follow&style=social)
 
 

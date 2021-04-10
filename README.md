@@ -26,7 +26,7 @@
 <details>
     <summary>Language Statistics...</summary>
     <p align = "center">
-        <img src="https://wakatime.com/share/@e8e7f2a2-f6f0-415d-9cae-72292f250efd/9235fd11-ba60-4ad4-9b6e-49a5d983ebef.svg" height="400" />
+        <img src="https://wakatime.com/share/@e8e7f2a2-f6f0-415d-9cae-72292f250efd/9235fd11-ba60-4ad4-9b6e-49a5d983ebef.svg" height="400" color="#9932CC" />
     </p>
 </details>
 <hr>

@@ -16,16 +16,11 @@
 [![Linkedin: catherinesjkim](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
 [![GitHub Catherinesjkim](https://img.shields.io/github/followers/Catherinesjkim?label=follow&style=social)](https://github.com/Catherinesjkim)
 
-<hr>
-<details>
-    <summary>Github Statistics...</summary>
-    <p align = "center">
-       <img src="https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true" />
-    </p>
-</details>
-<hr>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true)]
+    
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact)](https://github.com/catherinesjkim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple)](https://github.com/catherinesjkim/github-readme-stats)
  
 
 

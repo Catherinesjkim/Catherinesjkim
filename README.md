@@ -23,13 +23,10 @@
        <img src="https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true" />
     </p>
 </details>
-<details>
-    <summary>Language Statistics...</summary>
-    <p align = "center">
-        <img src="https://wakatime.com/share/@e8e7f2a2-f6f0-415d-9cae-72292f250efd/9235fd11-ba60-4ad4-9b6e-49a5d983ebef.svg" height="400" color="#9932CC" />
-    </p>
-</details>
 <hr>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact)](https://github.com/catherinesjkim/github-readme-stats)
+ 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

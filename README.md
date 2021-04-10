@@ -17,12 +17,11 @@
 [![GitHub Catherinesjkim](https://img.shields.io/github/followers/Catherinesjkim?label=follow&style=social)](https://github.com/Catherinesjkim)
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true)]
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
     
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
 
-[![Catherine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim&theme=midnight-purple&show_icons=true)]
+[![Catherine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
  
 
 

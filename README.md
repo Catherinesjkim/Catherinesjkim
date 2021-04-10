@@ -17,7 +17,7 @@
 [![GitHub Catherinesjkim](https://img.shields.io/github/followers/Catherinesjkim?label=follow&style=social)](https://github.com/Catherinesjkim)
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true)
     
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple)](https://github.com/catherinesjkim/github-readme-stats)

@@ -15,7 +15,6 @@
 [![Twitter: catherinesjkim](https://img.shields.io/twitter/follow/catherinesjkim?style=social)](https://twitter.com/catherinesjkim)
 [![Linkedin: catherinesjkim](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)
 [![GitHub Catherinesjkim](https://img.shields.io/github/followers/Catherinesjkim?label=follow&style=social)](https://github.com/Catherinesjkim)
-
 <a href="mailto:catherinesjkim@gmail.com"><img src="https://camo.githubusercontent.com/496763677efe7093d5754b5843eeddc0de51e5625613577497706172c09c104a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d456d61696c26636f6c6f723d67726179266c6f676f3d676d61696c" alt="" data-canonical-src="https://img.shields.io/static/v1?label&amp;message=Email&amp;color=gray&amp;logo=gmail" style="max-width:100%;"></a>
 
 

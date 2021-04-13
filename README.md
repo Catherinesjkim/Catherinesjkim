@@ -26,7 +26,7 @@
 <details>
     <summary>Language Statistics...</summary><br/>
     <p align = "center">
-        <img src="https://wakatime.com/share/@catherinesjkim/cfa32933-65d4-4764-a508-3836b38531b8.svg" height="400" />
+        <img src="https://wakatime.com/share/@catherinesjkim/c9ce63dd-e75b-4091-9db2-d18ed4de7e6c.svg" height="400" />
     </p>
 </details>
 <hr>
@@ -99,4 +99,4 @@ Mac                      2 hrs 48 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/catherinesjkim/waka-readme-stats)**
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://wakatime.com/share/@catherinesjkim/c9ce63dd-e75b-4091-9db2-d18ed4de7e6c.svg)**

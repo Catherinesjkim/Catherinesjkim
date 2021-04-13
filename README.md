@@ -22,14 +22,8 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
 
-[![catherinesjkim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim)](https://github.com/catherinesjkim/github-readme-stats)
+[![catherinesjkim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
 
-<a href="https://github.com/catherinesjkim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catherinesjkim&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/catherinesjkim/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catherinesjkim&repo=convoychat" />
-</a>
  
 
 

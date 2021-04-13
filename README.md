@@ -22,7 +22,14 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
 
-[![Catherine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
+[![catherinesjkim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim)](https://github.com/catherinesjkim/github-readme-stats)
+
+<a href="https://github.com/catherinesjkim/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catherinesjkim&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/catherinesjkim/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=catherinesjkim&repo=convoychat" />
+</a>
  
 
 
@@ -78,17 +85,18 @@ const cat = {
 ⌚︎ Timezone: USA/California
 
 💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+JavaScript               1 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   39.01%
+JSON                     0 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
+Python                   0 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00% 
+Markdown                 0 hrs 9 min         ███░░░░░░░░░░░░░░░░░░░░░░   04.25% 
+YAML                     0 hr 0 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-VS Code                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+VS Code                  2 hrs 48 mins       ██████████████░░░░░░░░░░░   55.81% 
 💻 Operating Systems: 
-Mac                  17 hrs 5 mins       █████████████████████████   100.0%
+Mac                      2 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/catherinesjkim/waka-readme-stats)**

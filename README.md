@@ -22,7 +22,7 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinesjkim&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats) 
 
-[![Catherine's Wakatime Stats](https://github.com/catherinesjkim/catherinesjkim/blob/main/codeStats.svg)](https://github.com/catherinesjkim/waka-readme-stats)
+[![catherinesjkim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catherinesjkim)](https://github.com/catherinesjkim/github-readme-stats)
 
 
 

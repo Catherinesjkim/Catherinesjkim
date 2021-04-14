@@ -17,7 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: https://github.com/Catherinesjkim/Catherinesjkim/settings/secrets
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          GH_TOKEN: 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
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: <Catherinesjkim/Catherinesjkim>
           COMMIT_MESSAGE: Updated the Readme
           SHOW_TITLE: true

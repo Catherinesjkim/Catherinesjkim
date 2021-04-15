@@ -21,19 +21,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<hr>
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />    
+    <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />    
+    <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />    
+    <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
+    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+    <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    
+</hr>
 
+<br />
 <br />
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=catherinesjkim&theme=midnight-purple&show_icons=true)](https://github.com/catherinesjkim/github-readme-stats)
@@ -74,10 +78,11 @@ const cat = {
     },
     architecture: ["serverless architecture", "progressive web applications", "single page applications", "microservices", "event-driven", "design system pattern"],
     techCommunities: {
-                        member: "Py-Lambda"
+                        member: "Py-Lambda",
+                        member: "Women Techmakers"
                        },
-    currentProject: "I am building a web app and REST APIs with Flask and Python",
-    funFact: "Let your code brew overnight and magic will happen the next day"
+    currentProject: "I am building am interactive Github Dashboard and REST APIs with Flask and Python",
+    funFact: "Let your code brew overnight and magic will happen the next morning"
 };
 ```
 
@@ -103,17 +108,19 @@ const cat = {
 ⌚︎ Timezone: USA/California
 
 💬 Languages: 
-JavaScript               1 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   52.71%
-JSON                     0 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   24.33% 
-Python                   0 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.49%
-YAML                     0 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░    2.46%
-Markdown                 0 hrs  9 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    2.00%
-HTML                     0 hrs  2 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    0.01% 
+JavaScript               5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   48.21%
+JSON                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   33.45% 
+Python                   0 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░    8.39%
+Other                    0 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░    7.89%
+YAML                     0 hrs  9 mins       ███░░░░░░░░░░░░░░░░░░░░░░    1.39%
+Git Config               0 hrs  4 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    0.65%
+CSS                      0 hrs  2 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    0.01%
+HTML                     0 hrs  2 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    0.01%
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       ██████████████░░░░░░░░░░░   55.81% 
+VS Code                  11 hrs 33 mins       █████████████████████████  100.0% 
 💻 Operating Systems: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.0%
+Mac                      11 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 <!--END_SECTION:waka-->

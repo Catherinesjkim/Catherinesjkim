@@ -126,4 +126,4 @@ Mac                      11 hrs 33 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://wakatime.com/share/@catherinesjkim/c9ce63dd-e75b-4091-9db2-d18ed4de7e6c.svg)**
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

@@ -81,7 +81,7 @@ const cat = {
                         member: "Py-Lambda",
                         member: "Women Techmakers"
                        },
-    currentProject: "I am building am interactive Github Dashboard and REST APIs with Flask and Python",
+    currentProject: "I am building an interactive Github Dashboard and REST APIs with Flask and Python",
     funFact: "Let your code brew overnight and magic will happen the next morning"
 };
 ```

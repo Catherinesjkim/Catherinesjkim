@@ -8,7 +8,7 @@
 
 - :question: I'm looking for help with ... DMN & FEEL
 
-- :information_desk_person: Ask me about ... IP SaaS space
+- :information_desk_person: Ask me about ... IP Legal SaaS space
 
 - :telephone_receiver: How to reach me: ... 
 

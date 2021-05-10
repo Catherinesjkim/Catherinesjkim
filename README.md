@@ -1,6 +1,6 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
     
-- :computer: I'm currently working on ... CitySpire
+- :computer: I'm currently working on ... Adding Video Calling in my Web App using a Video Web SDK
 
 - :books: I'm currently learning ... SQL & REST APIs with Flask and Python
 

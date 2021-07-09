@@ -1,6 +1,6 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
     
-- :computer: I'm currently working on ... Adding Video Calling and voting features to my HTML5 & React Web Apps using Agora App Builder
+- :computer: I'm currently working on ... Adding Video Chats, live streams and voting features to my HTML5 & React Web Apps using Agora App Builder
 
 - :books: I'm currently learning ... SQL & REST APIs with Flask and Python
 

@@ -1,12 +1,12 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
     
-- :computer: I'm currently working on ... Adding Video Calling in my Web App using a Video Web SDK
+- :computer: I'm currently working on ... Adding Video Calling and voting features to my HTML5 & React Web Apps using Agora App Builder
 
 - :books: I'm currently learning ... SQL & REST APIs with Flask and Python
 
 - :raised_hands: I'm looking to collabroate on ... Python
 
-- :question: I'm looking for help with ... DMN & FEEL
+- :question: I'm looking for help with ... Audio Engineering
 
 - :information_desk_person: Ask me about ... IP Legal SaaS space
 

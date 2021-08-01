@@ -2,11 +2,11 @@
     
 - :computer: I'm currently working on ... Adding audio, video chats, & live stream functionalities and voting features to my HTML5 & React Web Apps using Agora App Builder
 
-- :books: I'm currently learning ... SQL & REST APIs with Flask and Python
+- :books: I'm currently learning ... React Native
 
-- :raised_hands: I'm looking to collabroate on ... Python
+- :raised_hands: I'm looking to collabroate on ... JavaScript
 
-- :question: I'm looking for help with ... Audio Engineering
+- :question: I'm looking for help with ... Audio Engineering 
 
 - :information_desk_person: Ask me about ... IP Legal SaaS space
 

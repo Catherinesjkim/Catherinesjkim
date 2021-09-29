@@ -4,9 +4,7 @@
 
 - :books: I'm currently learning ... React Native
 
-- :raised_hands: I'm looking to collabroate on ... JavaScript
-
-- :question: I'm looking for help with ... Audio Engineering 
+- :raised_hands: I'm looking to collabroate on ... WebRTC and Video Communications
 
 - :information_desk_person: Ask me about ... IP Legal SaaS space
 

@@ -64,7 +64,7 @@ const cat = {
         frontEnd: {
             js: ["React", "Context"],
             python: ["FastAPI"]
-            css: ["material ui", "ant design", "bootstrap", "SaaS", "Less"]
+            css: ["material ui", "ant design", "bootstrap", "Sass", "Less"]
         },
         backEnd: {
             js: ["node", "express"],

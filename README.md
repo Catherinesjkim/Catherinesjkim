@@ -77,7 +77,8 @@ const cat = {
     architecture: ["serverless architecture", "progressive web applications", "single page applications", "microservices", "event-driven", "design system pattern"],
     techCommunities: {
                         member: "Py-Lambda",
-                        member: "Women Techmakers"
+                        member: "Women Techmakers",
+                        member: "freeCodeCamp",
                        },
     currentProject: "I am building an interactive Github Dashboard and REST APIs with Flask and Python",
     funFact: "Let your code brew overnight and magic will happen the next morning"

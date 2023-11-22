@@ -2,11 +2,11 @@
     
 - :computer: I'm currently working on ... embedding audio, video chats, & live stream functionalities and voting features to my HTML5 & React Web Apps using Agora App Builder
 
-- :books: I'm currently learning ... React Native
+- :books: I'm currently learning ... Next.JS
 
-- :raised_hands: I'm looking to collabroate on ... WebRTC and Video Communications
+- :raised_hands: I'm looking to collabroate on ... Web Development
 
-- :information_desk_person: Ask me about ... IP Legal SaaS space
+- :information_desk_person: Ask me about ... Video and Audio conferencing and Interactive Live Streaming
 
 - :telephone_receiver: How to reach me: ... 
 

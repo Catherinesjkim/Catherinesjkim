@@ -1,6 +1,6 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
     
-- :computer: I'm currently working on ... embedding audio, video chats, live stream functionalities and voting features to my HTML5 & React Web Apps using Agora App Builder
+- :computer: I'm currently working on ... embedding audio, video chats, live stream functionalities and voting features to my HTML5 & React Web Apps using App Builder
 
 - :books: I'm currently learning ... Next.JS
 

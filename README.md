@@ -99,6 +99,8 @@ const cat = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 8 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 246 Public Repositories 
@@ -163,7 +165,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 19:08:59 UTC
+ Last Updated on 23/02/2025 19:10:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

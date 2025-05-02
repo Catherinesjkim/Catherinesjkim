@@ -89,8 +89,6 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.3%20thousand%20lines%20of%20code-blue)
@@ -105,45 +103,6 @@ const cat = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                207 commits         ██████████░░░░░░░░░░░░░░░   41.57 % 
-🌆 Daytime                253 commits         █████████████░░░░░░░░░░░░   50.80 % 
-🌃 Evening                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Tuesday                  212 commits         ███████████░░░░░░░░░░░░░░   42.57 % 
-Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Thursday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Sunday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -161,7 +120,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 19:33:32 UTC
+ Last Updated on 02/05/2025 18:40:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

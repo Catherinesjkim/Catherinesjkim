@@ -1,14 +1,23 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
-    
-- :computer: I'm currently working on ... embedding audio, video chats, live stream functionalities and voting features to my HTML5 & React Web Apps using App Builder
 
-- :books: I'm currently learning ... Next.JS
+## 🔍 Featured Project
 
-- :raised_hands: I'm looking to collabroate on ... Web Development
+### [my-aml-checker](https://github.com/Catherinesjkim/my-aml-checker)
+A lightweight Python tool that detects potentially suspicious credit card transactions using rule-based AML (Anti-Money Laundering) checks.
 
-- :information_desk_person: Ask me about ... Video and Audio conferencing and Interactive Live Streaming
+- 🚨 Flags high-value transactions and unusual activity
+- 📊 Processes CSV files with clear, reviewable output
+- 🔧 Easily extendable for more compliance logic or machine learning
 
-- :telephone_receiver: How to reach me: ... 
+- :computer: I'm currently working on how to automate complex GRC and TPRM programs' change management with Gen AI and Python.
+
+- :books: I'm currently learning Rego (OPA) to implement policy as code. 
+
+- :raised_hands: I'm looking to collabroate on anything related to cybersecurity. 
+
+- :information_desk_person: Ask me about GRC Compliance
+
+- :telephone_receiver: How to reach me: 
 
 [![Twitter: catherinesjkim](https://img.shields.io/twitter/follow/catherinesjkim?style=social)](https://twitter.com/catherinesjkim)
 [![Linkedin: catherinesjkim](https://img.shields.io/badge/-catherinesjkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherinesjkim/)](https://www.linkedin.com/in/catherinesjkim/)

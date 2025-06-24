@@ -9,13 +9,13 @@ A lightweight Python tool that detects potentially suspicious credit card transa
 - 📊 Processes CSV files with clear, reviewable output
 - 🔧 Easily extendable for more compliance logic or machine learning
 
-- :computer: I'm currently working on how to automate complex GRC and TPRM programs' change management with Gen AI and Python.
+- :computer: I'm currently working on automation for complex GRC and TPRM programs' change management and workflows with Gen AI and Python.
 
-- :books: I'm currently learning Rego (OPA) to implement policy as code. 
+- :books: I'm learning Rego (OPA) to implement policy as code for IAM risk management and map different frameworks and regulations e.g. NIST, HIPAA, PCI DSS, etc. so that it's easier for software engineers to update change management and add it to their CI/CD pipeline. 
 
-- :raised_hands: I'm looking to collabroate on anything related to cybersecurity. 
+- :raised_hands: I'm looking to collaborate on anything related to cybersecurity. 
 
-- :information_desk_person: Ask me about GRC Compliance
+- :information_desk_person: Ask me about GRC Compliance and TPRM program management with workflow and risk scoring methodology automation. 
 
 - :telephone_receiver: How to reach me: 
 

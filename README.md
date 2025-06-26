@@ -22,6 +22,7 @@
 
 🔗 **View Project**: [WeatherAQI on GitHub →](https://github.com/Catherinesjkim/WeatherAQI)
 
+---
 
 ### [my-aml-checker](https://github.com/Catherinesjkim/my-aml-checker)
 A lightweight Python tool that detects potentially suspicious credit card transactions using rule-based AML (Anti-Money Laundering) checks.

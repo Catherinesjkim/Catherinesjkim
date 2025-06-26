@@ -15,10 +15,9 @@
 - Optional: AQI API + BeautifulSoup
 
 📊 **Features**:
-- Extracts temperature and humidity from the OpenWeatherMap API
-- Retrieves AQI data via API or manual input
-- Combines and visualizes metrics side-by-side for multiple cities
-- Includes auto-labeled bar plots with units (°C, °F, %, AQI)
+- 🔄 Live integration with OpenWeatherMap & AQI APIs
+- Auto-generated visual comparisons for multiple cities
+- Includes auto-labeled bar plots with units (°C, %, AQI)
 
 🔗 **View Project**: [WeatherAQI on GitHub →](https://github.com/Catherinesjkim/WeatherAQI)
 

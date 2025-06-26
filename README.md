@@ -1,6 +1,25 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
 
-## 🔍 Featured Projects
+## 🚀 Featured Projects
+
+📦 Spam Detector
+
+Machine learning model to classify SMS messages as 'spam' or 'ham' using text preprocessing, TF-IDF vectorization, and scikit-learn classifiers.
+
+🔍 Accuracy: 96% — overall strong classification performance
+
+✅ Precision: 1.00 — zero false positives; no legitimate messages flagged as spam
+
+📉 Recall: 0.72 — catches most spam but misses a few, ensuring cautious filtering
+
+⚖️ F1 Score: 0.84 — well-balanced model with emphasis on precision
+
+Why it matters:
+The model is optimized for high-precision scenarios, making it ideal for systems where false spam flags must be avoided, such as in business-critical communications.
+
+➡️ View project
+
+---
 
 ## 🌦️ WeatherAQI
 

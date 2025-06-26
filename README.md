@@ -1,6 +1,27 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
 
-## 🔍 Featured Project
+## 🔍 Featured Projects
+
+## 🌦️ WeatherAQI
+
+[![WeatherAQI](https://img.shields.io/badge/Project-WeatherAQI-blue)](https://github.com/Catherinesjkim/WeatherAQI)
+
+**WeatherAQI** is a Jupyter Notebook project that fetches and compares **real-time weather** and **air quality (AQI)** data for different cities using APIs and data visualization.
+
+🔧 Built with:
+- Python, Jupyter Notebook
+- OpenWeatherMap API
+- Seaborn, Matplotlib, Pandas
+- Optional: AQI API + BeautifulSoup
+
+📊 **Features**:
+- Extracts temperature and humidity from the OpenWeatherMap API
+- Retrieves AQI data via API or manual input
+- Combines and visualizes metrics side-by-side for multiple cities
+- Includes auto-labeled bar plots with units (°C, °F, %, AQI)
+
+🔗 **View Project**: [WeatherAQI on GitHub →](https://github.com/Catherinesjkim/WeatherAQI)
+
 
 ### [my-aml-checker](https://github.com/Catherinesjkim/my-aml-checker)
 A lightweight Python tool that detects potentially suspicious credit card transactions using rule-based AML (Anti-Money Laundering) checks.
@@ -9,6 +30,7 @@ A lightweight Python tool that detects potentially suspicious credit card transa
 - 📊 Processes CSV files with clear, reviewable output
 - 🔧 Easily extendable for more compliance logic or machine learning
 
+---
 - :computer: I'm currently working on automation for complex GRC and TPRM programs' change management and workflows with Gen AI and Python.
 
 - :books: I'm learning Rego (OPA) to implement policy as code for IAM risk management and map different frameworks and regulations e.g. NIST, HIPAA, PCI DSS, etc. so that it's easier for software engineers to update change management and add it to their CI/CD pipeline. 

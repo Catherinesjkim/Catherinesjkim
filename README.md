@@ -120,11 +120,11 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -141,21 +141,21 @@ const cat = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                188 commits         ██████████░░░░░░░░░░░░░░░   39.09 % 
-🌆 Daytime                253 commits         █████████████░░░░░░░░░░░░   52.60 % 
-🌃 Evening                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+🌞 Morning                209 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌆 Daytime                264 commits         █████████████░░░░░░░░░░░░   50.97 % 
+🌃 Evening                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Tuesday                  204 commits         ███████████░░░░░░░░░░░░░░   42.41 % 
-Wednesday                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Thursday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  213 commits         ██████████░░░░░░░░░░░░░░░   41.12 % 
+Wednesday                30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Thursday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Sunday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 ```
 
 
@@ -197,7 +197,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 01:03:15 UTC
+ Last Updated on 26/06/2025 02:49:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

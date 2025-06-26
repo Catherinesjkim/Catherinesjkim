@@ -1,8 +1,10 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-📦 Spam Detector
+## 📦 Spam Detector
+
+[![Spam Detector](https://img.shields.io/badge/Project-Spam%20Detector-blue)](https://github.com/Catherinesjkim/spam-detector)
 
 Machine learning model to classify SMS messages as 'spam' or 'ham' using text preprocessing, TF-IDF vectorization, and scikit-learn classifiers.
 

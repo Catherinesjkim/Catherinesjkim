@@ -1,8 +1,8 @@
 <h2> Hola :wave:, I'm Catherine Kim! </h2>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📦 Spam Detector
+### 📦 Spam Detector
 
 [![Spam Detector](https://img.shields.io/badge/Project-Spam%20Detector-blue)](https://github.com/Catherinesjkim/spam-detector)
 
@@ -23,7 +23,7 @@ The model is optimized for high-precision scenarios, making it ideal for systems
 
 ---
 
-## 🌦️ WeatherAQI
+### 🌦️ WeatherAQI
 
 [![WeatherAQI](https://img.shields.io/badge/Project-WeatherAQI-blue)](https://github.com/Catherinesjkim/WeatherAQI)
 
@@ -45,8 +45,9 @@ The model is optimized for high-precision scenarios, making it ideal for systems
 🔗 **View Project**: [WeatherAQI on GitHub →](https://github.com/Catherinesjkim/WeatherAQI)
 
 ---
+### 🤖 AML Checker
+🚧 [![my-aml-checker](https://img.shields.io/badge/Project-my--aml--checker-red?label=WIP)](https://github.com/Catherinesjkim/my-aml-checker)
 
-### [my-aml-checker](https://github.com/Catherinesjkim/my-aml-checker)
 A lightweight Python tool that detects potentially suspicious credit card transactions using rule-based AML (Anti-Money Laundering) checks.
 
 - 🚨 Flags high-value transactions and unusual activity

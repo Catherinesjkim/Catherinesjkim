@@ -18,6 +18,8 @@
 - 🔄 Live integration with OpenWeatherMap & AQI APIs
 - Auto-generated visual comparisons for multiple cities
 - Includes auto-labeled bar plots with units (°C, %, AQI)
+- 🗃️ Converts live CSV data to a local SQLite database (`weather_aqi.db`)
+- 📥 Supports SQL queries for filtering and historical analysis
 
 🔗 **View Project**: [WeatherAQI on GitHub →](https://github.com/Catherinesjkim/WeatherAQI)
 

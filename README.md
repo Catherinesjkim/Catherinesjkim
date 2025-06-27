@@ -19,7 +19,7 @@ Machine learning model to classify SMS messages as 'spam' or 'ham' using text pr
 Why it matters:
 The model is optimized for high-precision scenarios, making it ideal for systems where false spam flags must be avoided, such as in business-critical communications.
 
-➡️ View project
+➡️ View project:[Spam Detector on GitHub →](https://github.com/Catherinesjkim/spam-detector)
 
 ---
 

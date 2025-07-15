@@ -144,7 +144,7 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -153,6 +153,8 @@ const cat = {
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 48 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -219,7 +221,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 18:48:24 UTC
+ Last Updated on 15/07/2025 18:50:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

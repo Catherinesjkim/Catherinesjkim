@@ -154,8 +154,6 @@ const cat = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 250 Public Repositories 
@@ -189,18 +187,16 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JSON                     1 hr 54 mins        ████████████████░░░░░░░░░   64.20 % 
-Other                    1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        ████████████████░░░░░░░░░   64.20 % 
-Terminal                 1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.80 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Prowler                  2 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -220,7 +216,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 18:45:52 UTC
+ Last Updated on 23/07/2025 18:44:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

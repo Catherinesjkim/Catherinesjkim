@@ -144,11 +144,11 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -165,21 +165,21 @@ const cat = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                247 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                432 commits         ███████████████░░░░░░░░░░   58.30 % 
-🌃 Evening                62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌞 Morning                304 commits         █████████░░░░░░░░░░░░░░░░   36.71 % 
+🌆 Daytime                461 commits         ██████████████░░░░░░░░░░░   55.68 % 
+🌃 Evening                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Tuesday                  255 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
-Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Friday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Tuesday                  318 commits         ██████████░░░░░░░░░░░░░░░   38.41 % 
+Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Friday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Saturday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 ```
 
 
@@ -189,16 +189,16 @@ Sunday                   70 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Terminal                 43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Prowler                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -218,7 +218,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 19:34:17 UTC
+ Last Updated on 26/07/2025 18:42:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

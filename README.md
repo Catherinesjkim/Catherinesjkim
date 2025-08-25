@@ -189,21 +189,16 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   1 hr 24 mins        ████████████████████████░   97.92 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   98.11 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-python_for_cyber         56 mins             ████████████████░░░░░░░░░   65.43 % 
-EarlyWarning_CVEs        25 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-Tenable_Vuln_Management  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +218,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 19:20:06 UTC
+ Last Updated on 25/08/2025 18:42:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

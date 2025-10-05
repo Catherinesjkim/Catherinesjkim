@@ -189,16 +189,16 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Other                    35 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Terminal                 12 mins             █████████████████████████   100.00 % 
+Terminal                 35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-python_for_cyber         12 mins             █████████████████████████   100.00 % 
+python_for_cyber         35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -218,7 +218,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:38:40 UTC
+ Last Updated on 05/10/2025 18:38:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

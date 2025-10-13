@@ -189,20 +189,16 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    2 hrs 12 mins       ███████████████████████░░   91.86 % 
-Docker                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Terminal                 2 hrs 11 mins       ███████████████████████░░   91.76 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-horusec-docker           1 hr 29 mins        ███████████████░░░░░░░░░░   61.97 % 
-my-ubuntu-container      34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-python_for_cyber         20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -222,7 +218,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 18:40:19 UTC
+ Last Updated on 13/10/2025 18:42:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

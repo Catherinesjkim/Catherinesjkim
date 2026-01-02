@@ -144,11 +144,9 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-157.13%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.85%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -162,45 +160,6 @@ const cat = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                287 commits         █████████░░░░░░░░░░░░░░░░   35.56 % 
-🌆 Daytime                453 commits         ██████████████░░░░░░░░░░░   56.13 % 
-🌃 Evening                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Tuesday                  312 commits         ██████████░░░░░░░░░░░░░░░   38.66 % 
-Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Friday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Saturday                 83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -218,7 +177,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 19:36:46 UTC
+ Last Updated on 02/01/2026 18:44:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

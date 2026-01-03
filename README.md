@@ -160,6 +160,45 @@ const cat = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                306 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
+🌆 Daytime                463 commits         ██████████████░░░░░░░░░░░   55.32 % 
+🌃 Evening                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Tuesday                  318 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
+Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Friday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -177,7 +216,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:44:13 UTC
+ Last Updated on 03/01/2026 18:45:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

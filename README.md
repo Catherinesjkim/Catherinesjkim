@@ -144,7 +144,7 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -216,7 +216,7 @@ Mac                      1 hr 50 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 22:36:09 UTC
+ Last Updated on 18/01/2026 22:36:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

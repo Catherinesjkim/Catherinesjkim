@@ -144,7 +144,7 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -189,19 +189,19 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   2 hrs 59 mins       ██████████████████████░░░   86.32 % 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Python                   4 hrs 20 mins       ███████████████████████░░   90.15 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       ██████████████████████░░░   86.32 % 
-Terminal                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+VS Code                  4 hrs 20 mins       ███████████████████████░░   90.15 % 
+Terminal                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🐱‍💻 Projects: 
-python                   3 hrs 7 mins        ███████████████████████░░   90.29 % 
-my_project               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+python                   4 hrs 28 mins       ███████████████████████░░   93.01 % 
+my_project               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 💻 Operating System: 
-Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +221,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 06:07:39 UTC
+ Last Updated on 20/01/2026 18:47:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

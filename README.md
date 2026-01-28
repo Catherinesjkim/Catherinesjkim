@@ -201,14 +201,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
-
 ```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Open Policy Agent        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+
 ```
 
 
@@ -218,7 +212,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2026 16:53:42 UTC
+ Last Updated on 28/01/2026 16:54:04 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

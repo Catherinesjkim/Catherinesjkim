@@ -154,8 +154,6 @@ const cat = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
- > 
 > 💼 Opted to Hire
  > 
 > 📜 253 Public Repositories 
@@ -212,7 +210,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 13:48:11 UTC
+ Last Updated on 27/02/2026 13:48:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

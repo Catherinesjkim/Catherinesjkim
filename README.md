@@ -189,16 +189,21 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   24 mins             ████████████████████░░░░░   78.59 % 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Jupyterlab               25 mins             ████████████████████░░░░░   79.83 % 
+Terminal                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          25 mins             ████████████████████░░░░░   79.83 % 
+Claude                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -218,7 +223,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 08:02:23 UTC
+ Last Updated on 01/03/2026 08:04:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

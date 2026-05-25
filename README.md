@@ -144,7 +144,7 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -189,16 +189,21 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 1 min          ██████████████████░░░░░░░   71.34 % 
+Other                    22 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         ██████████████████░░░░░░░   73.66 % 
+Terminal                 22 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+features                 34 mins             ██████████░░░░░░░░░░░░░░░   39.77 % 
+fetchjson                29 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
+Claude                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -218,7 +223,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 20:30:08 UTC
+ Last Updated on 25/05/2026 19:02:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

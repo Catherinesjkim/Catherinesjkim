@@ -144,8 +144,6 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.85%20thousand%20lines%20of%20code-blue?style=flat)
@@ -189,20 +187,20 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               4 hrs 4 mins        ████████████████████░░░░░   80.33 % 
-HTML                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+TypeScript               3 hrs 3 mins        ████████████████████░░░░░   78.21 % 
+HTML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████████████   98.64 % 
-Terminal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   98.24 % 
+Terminal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-maps                     3 hrs 48 mins       ███████████████████░░░░░░   75.34 % 
-features                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+maps                     3 hrs 48 mins       ████████████████████████░   97.77 % 
+features                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -222,7 +220,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:08:32 UTC
+ Last Updated on 07/06/2026 18:56:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

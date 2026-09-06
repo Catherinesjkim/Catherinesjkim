@@ -150,7 +150,7 @@ const cat = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.93%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ const cat = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                45 commits          ██████████░░░░░░░░░░░░░░░   39.47 % 
-🌆 Daytime                56 commits          ████████████░░░░░░░░░░░░░   49.12 % 
-🌃 Evening                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Saturday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Sunday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -213,14 +213,8 @@ Mac                      1 hr 11 mins        ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
-
 ```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Open Policy Agent        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+
 ```
 
 
@@ -230,7 +224,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 21:35:25 UTC
+ Last Updated on 06/09/2026 21:35:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

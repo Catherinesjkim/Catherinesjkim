@@ -150,7 +150,7 @@ const cat = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.85%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ const cat = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                306 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌆 Daytime                463 commits         ██████████████░░░░░░░░░░░   55.32 % 
-🌃 Evening                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌞 Morning                7 commits           █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌆 Daytime                18 commits          ████████████░░░░░░░░░░░░░   48.65 % 
+🌃 Evening                12 commits          ████████░░░░░░░░░░░░░░░░░   32.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Tuesday                  318 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
-Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Friday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Wednesday                10 commits          ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Thursday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Saturday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 
 
@@ -230,7 +230,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 17:35:44 UTC
+ Last Updated on 06/09/2026 17:36:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

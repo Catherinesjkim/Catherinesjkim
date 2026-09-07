@@ -144,7 +144,7 @@ const cat = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20mins-blue?style=flat)
 
@@ -191,20 +191,19 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               37 mins             █████████████░░░░░░░░░░░░   53.02 % 
-TSConfig                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    22 mins             ███████████████████████░░   93.42 % 
+TSConfig                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+Terminal                 22 mins             ███████████████████████░░   93.42 % 
+VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🐱‍💻 Projects: 
-TypeScript               1 hr 11 mins        █████████████████████████   100.00 % 
+TypeScript               22 mins             ███████████████████████░░   93.42 % 
+vc-example               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -230,7 +229,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 07:02:49 UTC
+ Last Updated on 07/09/2026 07:04:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**

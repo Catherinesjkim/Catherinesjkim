@@ -191,19 +191,16 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    22 mins             ███████████████████████░░   93.42 % 
-TSConfig                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Terminal                 22 mins             ███████████████████████░░   93.42 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TypeScript               22 mins             ███████████████████████░░   93.42 % 
-vc-example               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -229,7 +226,7 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Catherinesjkim/Catherinesjkim/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 07:01:50 UTC
+ Last Updated on 14/09/2026 07:03:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
